@@ -1,0 +1,15 @@
+/Users/nicolasalfano/Projects/ConsoleTest/bin/Debug/net6.0/ConsoleTest
+/Users/nicolasalfano/Projects/ConsoleTest/bin/Debug/net6.0/ConsoleTest.deps.json
+/Users/nicolasalfano/Projects/ConsoleTest/bin/Debug/net6.0/ConsoleTest.runtimeconfig.json
+/Users/nicolasalfano/Projects/ConsoleTest/bin/Debug/net6.0/ConsoleTest.dll
+/Users/nicolasalfano/Projects/ConsoleTest/bin/Debug/net6.0/ConsoleTest.pdb
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.csproj.AssemblyReference.cache
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.AssemblyInfoInputs.cache
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.AssemblyInfo.cs
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.csproj.CoreCompileInputs.cache
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.dll
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/refint/ConsoleTest.dll
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.pdb
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ConsoleTest.genruntimeconfig.cache
+/Users/nicolasalfano/Projects/ConsoleTest/obj/Debug/net6.0/ref/ConsoleTest.dll
